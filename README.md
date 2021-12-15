@@ -1,9 +1,6 @@
-### Hi there 👋
+### i like code
 
-<h3 align="center">i like code</h3>
-
-
-<p align="left"> <a href="https://twitter.com/stillconor" target="blank"><img src="https://img.shields.io/twitter/follow/ichbinhanswand?logo=twitter&style=for-the-badge" alt="stillconor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ichbinhanswand" target="blank"><img src="https://img.shields.io/twitter/follow/ichbinhanswand?logo=twitter&style=for-the-badge" alt="ichbinhanswand" /></a> </p>
 
 - Website [https://www.hanswand.com](https://www.hanswand.com)
 
