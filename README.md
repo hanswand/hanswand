@@ -3,9 +3,9 @@
  Jay Wall
  </h1>
  
- <h4 align='center'>
+ <h3 align='center'>
  Software Engineer 
- </h4>
+ </h3>
  
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
@@ -26,7 +26,7 @@
 </p>
 
 <div align="center"> 
-  Thank You for visiting my profile, see you next time!
+  visitor count
   <br>
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </div>
@@ -43,9 +43,8 @@
 - 🔭 I’m currently working [Swell] https://github.com/oslabs-beta/Swell . 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
-- 📫 How to reach me: jaywall@gmail.com 
-- ☎️ (336)-457-8509
-- 😄 Pronouns: He / Him / His 
+- email: jaywall@gmail.com 
+- mobile: (336)-457-8509
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanswand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/walljay//)  
