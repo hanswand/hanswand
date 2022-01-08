@@ -42,7 +42,7 @@
 
 - 🔭 I’m currently working [Swell] https://github.com/oslabs-beta/Swell . 
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
+
 - email: jaywall@gmail.com 
 - mobile: (336)-457-8509
 
