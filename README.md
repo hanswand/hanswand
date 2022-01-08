@@ -24,14 +24,11 @@
   <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
   <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
-  
+  <br></br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
    
 </p>
-
-
-
 
 <div align="center"> 
   Thank You for visiting my profile, see you next time!
@@ -56,12 +53,7 @@
 - 😄 Pronouns: He / Him / His 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
-
-
-![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanswand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/walljay//)  
 
 
 ## Stats and Trophys
@@ -69,15 +61,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanswand)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
 
- 
 
 ![GitHub metrics](https://metrics.lecoq.io/Robbins180)  
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
 
