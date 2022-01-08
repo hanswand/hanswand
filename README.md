@@ -32,13 +32,13 @@
 </div>
 
 
-## Skills and Experiance
+## Skills and Experience
 
 - 🤩  REACT
 - 💻  HTML | CSS | JS
 - 🔍  SQL | NODE | EXPRESS
 
-## Interest and Contact
+## Interests and Contact
 
 - 🔭 I’m currently working [Swell] https://github.com/oslabs-beta/Swell . 
 - 🌱 I’m currently learning Python 
@@ -51,12 +51,6 @@
 
 
 ## Stats and Trophys
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanswand)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub metrics](https://metrics.lecoq.io/hanswand)  
 
