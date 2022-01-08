@@ -8,11 +8,6 @@
  </h4>
  
 <p align='center'>
-<img src='https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg'>
-</p>
- 
-
-<p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
@@ -64,7 +59,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub metrics](https://metrics.lecoq.io/Robbins180)  
+![GitHub metrics](https://metrics.lecoq.io/hanswand)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
 
