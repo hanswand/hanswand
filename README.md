@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/ichbinhanswand" target="blank"><img src="https://img.shields.io/twitter/follow/ichbinhanswand?logo=twitter&style=for-the-badge" alt="ichbinhanswand" /></a> </p>
 
-- Website [https://www.hanswand.com](https://www.hanswand.com)
-
 <!-- **hanswand/hanswand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
