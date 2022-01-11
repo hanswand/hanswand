@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
   <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
-  <br></br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
-   
 </p>
 
 <div align="center"> 
