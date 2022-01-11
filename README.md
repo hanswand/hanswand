@@ -52,11 +52,7 @@
 ## Stats
 
 [![wakatime](https://wakatime.com/badge/user/9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c.svg)](https://wakatime.com/@9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c)
-^^ Since 1 Jan 2022
-
-![GitHub metrics](https://metrics.lecoq.io/hanswand)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanswand)](https://github.com/anuraghazra/github-readme-stats)
+< time on keyboard since 4 January 2022
 
 
 
