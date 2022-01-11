@@ -46,13 +46,13 @@
 - email: jaywall@gmail.com 
 - mobile: (336)-457-8509
 
-[![wakatime](https://wakatime.com/badge/user/9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c.svg)](https://wakatime.com/@9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanswand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/walljay//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanswand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walljay//)  
 
 
 ## Stats
+
+[![wakatime](https://wakatime.com/badge/user/9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c.svg)](https://wakatime.com/@9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c)
+^^ Since 1 Jan 2022
 
 ![GitHub metrics](https://metrics.lecoq.io/hanswand)  
 
