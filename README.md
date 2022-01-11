@@ -49,9 +49,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanswand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walljay//)  
 
 
-## Stats
-
-time on keyboard since 4 January 2022.  
+## Time on keyboard since 4 January 2022: 
+ 
 [![wakatime](https://wakatime.com/badge/user/9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c.svg)](https://wakatime.com/@9b1563c3-0ffb-4a9a-b1d1-06f4ff8ac77c)
 
 
