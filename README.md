@@ -1,7 +1,7 @@
 
- <h1 align='center'>
+ <h2 align='center'>
  Jay Wall
- </h1>
+ </h2>
  
  <h3 align='center'>
  Software Engineer / Agile Lead
