@@ -8,6 +8,7 @@
  </h3>
  
 <p align='center'>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=TypeScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
