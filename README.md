@@ -7,6 +7,7 @@
 ### Technologien
 
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/angular) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&logo=webpack&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
